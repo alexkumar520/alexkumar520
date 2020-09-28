@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Alex Kumar</h1>
 <h3 align="center">I'm a student at the University of California, Irvine studying Computer Science!</h3>
 
-- 👨‍💻 All of my projects are available at [alexkumar.me](alexkumar.me)
+- 👨‍💻 Check out my personal website! [alexkumar.me](https://www.alexkumar.me)
 
 - 📫 How to reach me **alexkumar811@gmail.com**
 
