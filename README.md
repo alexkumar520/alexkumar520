@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **alexkumar811@gmail.com**
 
-- ⚡ Fun fact **I love listening to music!**
+- ⚡ Fun fact **I love listening to music! If I'm listening to something using Spotify, it will show here!**
 
 ![Spotify](https://novatorem2-seven.vercel.app/api/spotify)
 
