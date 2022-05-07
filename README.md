@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Alex Kumar</h1>
-<h3 align="center">I'm currently working at Walmart as a Software Engineer!</h3>
+<h3 align="center">I'm currently a software engineer at Walmart!</h3>
 
 - 👨‍💻 Check out my personal website! [alexkumar.me](https://www.alexkumar.me)
 
